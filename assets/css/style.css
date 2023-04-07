@@ -3,7 +3,7 @@
     padding: 0;
     margin: 0;
 }
-
+/* page background */
 body {
     background-color: #d9dcd6;
 }
@@ -45,11 +45,11 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
-
+ /* paragraph font sizing */
 p {
     font-size: 16px;
 }
-
+/* controls marketing meeting picture on top of the page */
 .hero {
     height: 800px;
     width: 100%;
@@ -133,7 +133,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* controls text on right box */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -160,7 +160,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* section controls  box on right side of page */
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -194,7 +194,7 @@ p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/* controls section below initial footer */
 .footer h2 {
     font-size: 20px;
 }
